@@ -1,0 +1,10 @@
+html, html 5
+css, css3
+php
+javascript
+
+bootstrab
+git & github
+laravel
+mysQl
+
